@@ -20,7 +20,7 @@
 - 💼 Building real-world applications with modern tech stacks
 - 🎯 Focused on **clean code**, **best practices**, and **continuous learning**
 - 💬 Let's discuss **Java, Python, JavaScript, React, Node.js**, and **System Design**
-- 📫 Reach me at **chamodrathnayaka008@gmail.com**
+- 📫 Reach me at ****
 - ⚡Fun fact: **I debug code faster than I debug my life! 😄**
 
 <br><br>
