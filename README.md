@@ -1,11 +1,11 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Matheesha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Matheesha" alt="Typing SVG" />
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Let's%20build%20something%20amazing%20together!&descAlignY=60&descAlign=50"/>
 <br>
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Code+Enthusiast+%E2%9A%A1;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 <br>
   
@@ -53,12 +53,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheeshapr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheeshapr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshapr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshapr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshapr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=ffffff" />
 </div>
 
 ---
@@ -66,18 +66,12 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheeshapr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheeshapr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=ffffff" />
 </div>
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    
 ## Connect With Me🤝
-
-<div
-  </ul>
 
 <p align="center">
 	<a href="https://wa.me/+94769745727"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
@@ -86,17 +80,12 @@
 	<a href="https://www.instagram.com/matheesha_pr/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-</div>
-
 ---
-
 
 ## 💭 Random Dev Quote
 
 <div align="center">
-  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
 </div>
 
 ---
@@ -105,7 +94,7 @@
   
   ### ⭐ Thanks for visiting my profile! ⭐
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=100&section=footer"/>
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
