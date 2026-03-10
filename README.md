@@ -16,12 +16,12 @@
 🚀 **Passionate Software Engineer** specializing in fullstack development with a focus on building scalable, efficient solutions.
 <br><br>
 
-🌱 Currently pursuing **Software Engineering** and exploring cutting-edge technologies
-💼 Building real-world applications with modern tech stacks
-🎯 Focused on **clean code**, **best practices**, and **continuous learning**
-💬 Let's discuss **Java, Python, JavaScript, React, Node.js**, and **System Design**
-📫 Reach me at ****
-⚡Fun fact: **I debug code faster than I debug my life! 😄**
+- 🌱 Currently pursuing **Software Engineering** and exploring cutting-edge technologies
+- 💼 Building real-world applications with modern tech stacks
+- 🎯 Focused on **clean code**, **best practices**, and **continuous learning**
+- 💬 Let's discuss **Java, Python, JavaScript, React, Node.js**, and **System Design**
+- 📫 Reach me at ****
+- ⚡Fun fact: **I debug code faster than I debug my life! 😄**
 
 <br><br>
 
