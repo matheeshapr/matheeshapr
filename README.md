@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,materialui" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,fastapi" />
